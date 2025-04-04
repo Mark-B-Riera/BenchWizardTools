@@ -6,16 +6,17 @@
 
 ### 📌 Contenido
 
-- **Introducción al Benchmarking**- **Herramientas de Benchmark para CPU**
+- **Introducción al Benchmarking**-
+- **Herramientas de Benchmark para CPU**
 - **Herramientas de Benchmark para GPU**
 - **Pruebas de Memoria RAM**
-- **Análisis y Diagnóstico de Almacenamiento (HDD/SSD)**
+- **Análisis y Diagnóstico de Almacenamiento**
 - **Monitorización y Temperaturas**
 - **Diagnóstico de Fallos en Hardware**
-  
+
 ---
 
-### 👀️ ¿Cómo usar esta guía?
+## 👀️ ¿Cómo usar esta guía?
 
 1. **Explora las secciones**: Cada categoría tiene una lista de herramientas recomendadas, su instalación y cómo usarlas.
 2. **Descarga las herramientas**: Se incluyen enlaces oficiales para cada software.
@@ -25,21 +26,18 @@
 
 ### 🛠️ Herramientas Recomendadas
 
-#### 🦜 **Benchmark de CPU**
-
-- [SiSoftware Sandra Lite](https://www.sisoftware.co.uk/)
-- [Novabench](https://novabench.com/)
-
-#### 🎮 **Benchmark de GPU**
+#### 🦎 **Benchmark de GPU, CPU y RAM**
 
 - [OCCT](https://www.ocbase.com/)
 
-#### 🔍 **Diagnóstico General y Monitorización**
+#### 🔍 **Diagnostico de almacenamiento **
 
-- [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)
+- [HD Tune](https://www.hdtune.com/download.html)
 
+#### 🦜 **Diagnostico general del PC**
+
+- [SiSoftware Sandra Lite](https://www.sisoftware.co.uk/)
+- [Novabench](https://novabench.com/)
+  
 ---
-
-
-
 
