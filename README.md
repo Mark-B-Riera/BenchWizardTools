@@ -14,7 +14,8 @@
 - **Monitorización y Temperaturas**
 - **Diagnóstico de Fallos en Hardware**
 
----
+
+
 
 ## 👀️ ¿Cómo usar esta guía?
 
