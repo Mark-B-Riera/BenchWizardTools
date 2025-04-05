@@ -1,6 +1,6 @@
 ![portada](assets/20250405_195426_nova.png)
 
-## ¿Qué es Novabench? 📈
+## ¿Qué es Novabench? 🦭
 
 ### ☕ Herramienta de diagnostico general
 
@@ -44,7 +44,7 @@ Una vez instalado y abierto, verás una interfaz moderna con opciones como:
 
 ---
 
-### Ejemplo de resultado de prueba:
+### 📊 Ejemplo de resultado de prueba:
 
 Luego de hacer clic en **Start all Benchmark Tests**, el programa correrá los tests en pocos minutos y te mostrará algo como esto:
 

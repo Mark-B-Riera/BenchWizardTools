@@ -1,6 +1,6 @@
 ![portada](assets/20250405_195134_hddtune.png)
 
-## ¿Qué es HD Tune?
+## ¿Qué es HD Tune? 🐦‍⬛
 
 ### ☕ Análisis de almacenamiento
 
@@ -56,7 +56,7 @@ Sin embargo, para la versión gratuita solo se podrá utilizar el **Benchmark y 
 
 ---
 
-### Ejemplo de un escaneo de errores y benchmark:
+### 📊 Ejemplo de un escaneo de errores y benchmark:
 
 Selecciona la pestaña “Error Scan” y haz clic en **Start**. El programa empezará a comprobar cada sector. Los sectores dañados aparecerán en **rojo**.
 

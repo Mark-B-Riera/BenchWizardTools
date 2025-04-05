@@ -53,7 +53,7 @@ Al cargar esa pestaña, el programa habrá iniciado y podremos observar distinta
 
 ![OOCT3](assets/20250405_185101_occt3.png)
 
-### Ejemplo de un escaneo de errores y benchmark:
+### 📊 Ejemplo de un escaneo de errores y benchmark:
 
 Cuando realicemos uno de cualquier test posibles, nos dirá que realizará una cuenta atrás y mientras lo realizamos podemos observar si el funcionamiento del sistema es correcto o proporciona errores.
 
