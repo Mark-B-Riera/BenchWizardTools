@@ -33,8 +33,7 @@ Dirigete a la página principal de OCCT (O dale click en este enlace)
 
 > [Descarga aqui OCCT 🦎 ](https://www.ocbase.com/)
 
-
- Al entrar en el enlace, le daras a "Download".
+Al entrar en el enlace, le daras a "Download".
 
 ![OCCT1](assets/occt1.png)
 
@@ -54,7 +53,13 @@ Al cargar esa pestaña, el programa habrá iniciado y podremos observar distinta
 
 ![OOCT3](assets/20250405_185101_occt3.png)
 
+### Ejemplo de un escaneo de errores y benchmark:
+
 Cuando realicemos uno de cualquier test posibles, nos dirá que realizará una cuenta atrás y mientras lo realizamos podemos observar si el funcionamiento del sistema es correcto o proporciona errores.
+
+![prueba](assets/20250405_193727_occt0.png)
+
+Una vez realizado el examen, te dirá si existen errores, cuantos ciclos ha realizado y el tiempo que ha estado realizando el examen.
 
 ![occt4](assets/20250405_185141_OCCT4.png)
 
@@ -77,22 +82,15 @@ Sí, **OCCT es altamente recomendable** para aquellos usuarios que deseen realiz
 La **versión gratuita de OCCT es bastante completa y funcional** para la mayoría de los usuarios. Permite realizar pruebas de estrés en los componentes principales y monitorizar los sensores. Sin enbargo, la **versión de pago (Pro)** ofrece funcionalidades adicionales como:
 
 > * **Pruebas automatizadas:** Permite crear y ejecutar secuencias de pruebas personalizadas.
-
 > * **Informes detallados:** Genera informes más completos y personalizables sobre las pruebas realizadas.
-
 > * **Uso comercial:** Permite utilizar OCCT con fines comerciales.
-
 > * **Soporte prioritario:** Acceso a un soporte técnico más rápido.
 
 ##### La versión de pago podria ser para usuarios 🐸:
 
-
-
 * [ ] Eres un**profesional** que necesita realizar pruebas de estrés de forma regular y generar informes detallados.
 * [ ] Necesitas la funcionalidad de**pruebas automatizadas** para realizar análisis más complejos.
 * [ ] Necesitas utilizar OCCT con**fines comerciales** .
-
-
 
 ---
 

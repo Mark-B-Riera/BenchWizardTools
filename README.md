@@ -14,9 +14,6 @@
 - **Monitorización y Temperaturas**
 - **Diagnóstico de Fallos en Hardware**
 
-
-
-
 ## 👀️ ¿Cómo usar esta guía?
 
 1. **Explora las secciones**: Cada categoría tiene una lista de herramientas recomendadas, su instalación y cómo usarlas.
@@ -29,16 +26,16 @@
 
 #### 🦎 **Benchmark de GPU, CPU y RAM**
 
-- [OCCT](https://www.ocbase.com/)
+- [OCCT](OCCT.md)
 
 #### 🔍 **Diagnostico de almacenamiento **
 
-- [HD Tune](https://www.hdtune.com/download.html)
+- [HD Tune](HDTune.md)
 
 #### 🦜 **Diagnostico general del PC**
 
-- [SiSoftware Sandra Lite](https://www.sisoftware.co.uk/)
-- [Novabench](https://novabench.com/)
-  
+- [SiSoftware Sandra Lite](SiSoftwareSandraLite.md)
+- [Novabench](Novabench.md)
+
 ---
 
