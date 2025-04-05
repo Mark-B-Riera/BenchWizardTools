@@ -1,3 +1,5 @@
+![portada](assets/20250405_195134_hddtune.png)
+
 ## ¿Qué es HD Tune?
 
 ### ☕ Análisis de almacenamiento
